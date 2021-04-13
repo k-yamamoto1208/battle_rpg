@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{F16E028A-66B0-380A-450C-F0F776A488A7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Quest/BattleManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/QuestManager.cs" Line="24" Column="6" />
+      <File FileName="Assets/Scripts/Title/TitleManager.cs" Line="10" Column="39" />
+      <File FileName="Assets/Scripts/Quest/BattleManager.cs" Line="79" Column="1" />
+      <File FileName="Assets/Scripts/FadeIOManager.cs" Line="17" Column="13" />
+      <File FileName="Assets/Scripts/SceneTransitionManager.cs" Line="15" Column="20" />
+      <File FileName="Assets/Scripts/DialogTextManager.cs" Line="57" Column="31" />
+      <File FileName="Assets/Scripts/Quest/PlayerManager.cs" Line="17" Column="15" />
+      <File FileName="Assets/Scripts/Quest/EnemyManager.cs" Line="23" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Battle RPG" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Quest" expanded="True">
+                  <Node name="BattleManager.cs" selected="True" />
+                </Node>
+                <Node name="Town" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f3535b22-8336-4aee-8eb5-9cf8250ff190" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
